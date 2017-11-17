@@ -1,5 +1,5 @@
 # Eat da Burger App
-A Burger Eatin' Application With Node.js/Express/MySQL/Handlebars
+A Burger Eatin' Application with Node.js/Express/MySQL/Handlebars
 
 ## Overview
 
@@ -9,5 +9,5 @@ The user may enter any burger name to add it to the menu. This also adds the new
 
 ## Demo
 
-Experience the app:[Heroku Link](https://burger-carvalho.herokuapp.com).
+Experience the app: [Heroku Link](https://burger-carvalho.herokuapp.com).
 
