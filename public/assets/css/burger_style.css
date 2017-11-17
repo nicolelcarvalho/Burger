@@ -20,15 +20,20 @@ body {
 
 #burger-input {
 	height: 30px;
-	width: 250px;
+	width: 280px;
 	font-size: 14px;
 	padding-top: 2%;
 	margin: 0 auto;
 	text-align: center;
 }
 
+.burger-div {
+	display: block;
+	width: 350px;
+	margin: 0 auto;
+}
+
 #burgers-to-devour, #burgers-devoured {
-	display: inline-block;
 	list-style: none;
 }
 
@@ -42,7 +47,7 @@ body {
 }
 
 #burgers-devoured li {
-	width: 250px;
+	width: 290px;
 }
 
 .devour {
